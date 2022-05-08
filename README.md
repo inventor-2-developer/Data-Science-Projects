@@ -17,7 +17,7 @@ Module 6-
 
 Module 7-
 
-Module 8-
+Midterm Project-
 
 Module 9-
 
@@ -31,14 +31,10 @@ Module 13-
 
 Module 14-
 
-Module 15-
-
 Assessment 2
 
 Assessment 3
 
 Assessment 4
-
-Midterm Project-
 
 Final Project-
